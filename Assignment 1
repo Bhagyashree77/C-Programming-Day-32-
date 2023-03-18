@@ -4,7 +4,7 @@ int cube(int n)
 {
     return n*n*n;
 }
-int main()
+main()
 {
     int n;
     printf("Enter a number to find its cube: ");
